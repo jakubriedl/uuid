@@ -1,0 +1,19 @@
+{
+    "name": "jakubriedl/uuid",
+    "description": "Easy to use UUID library",
+    "require": {
+        "ramsey/uuid": "3.0.*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "JakubRiedl\\Uuid\\": "/src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Riedl",
+            "email": "jakub.riedl@bileto.cz"
+        }
+    ]
+}
